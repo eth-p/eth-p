@@ -40,4 +40,12 @@ I'm a software developer with a focus on tooling, automation, and cloud infrastr
 > - Hotkey to change the directory to a `ranger` bookmark.
 > - `cd-ranger` command to change the directory with ranger.
 
+> **[fish-contextual-greeting](https://github.com/eth-p/fish-contextual-greeting)**
+> Upgrade your fish_greeting experience with greetings that only show up under certain contexts.
+>
+> - Custom greetings for:
+>   - SSH
+>   - Tmux
+>   - IDE terminals
+
 </div>
