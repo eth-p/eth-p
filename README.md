@@ -1,8 +1,7 @@
 ## Hi, I'm Ethan!
 
 I'm a software developer with a focus on tooling, automation, and cloud infrastructure.
-
-
+ 
 <details>
 <summary><h3>My Fish Plugins</h3></summary>
 <div>
@@ -49,3 +48,34 @@ I'm a software developer with a focus on tooling, automation, and cloud infrastr
 >   - IDE terminals
 
 </div>
+</details>
+
+<details>
+<summary><h3>My <a href="https://obsidian.md/">Obsidian</a> Plugins & Developer Resources</h3></summary>
+<div>
+  
+**Plugins**
+  
+> **[Callout Manager](https://github.com/eth-p/obsidian-callout-manager)**  
+> Easily create and customize callouts.
+> 
+> - Customize callout icons & colors.
+> - Create custom callouts.
+> - Supports mobile Obsidian.
+> - API for integration with other plugins.
+
+**Libraries**
+
+> **[obsidian-undocumented](https://github.com/eth-p/obsidian-undocumented)**  
+> Definitions for undocumented/private Obsidian.md APIs.
+
+> **[obsidian-extra](https://github.com/eth-p/obsidian-extra)**  
+> Safe abstractions over `obsidian-undocumented`.
+
+**Resources**
+  
+> **[obsidian-dev-helper](https://github.com/eth-p/obsidian-dev-helper)**
+> A Bash-based helper script that makes it easy to test Obsidian plugins while you develop them.
+
+</div>
+</details>
