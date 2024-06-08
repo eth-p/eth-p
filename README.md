@@ -26,6 +26,12 @@ I'm a software developer with a focus on tooling, automation, and cloud infrastr
 > - Change the config file, context, and namespace.
 > - Only applies to the current shell! (no outdated prompts)
 
+> **[fish-kubecompletions](https://github.com/eth-p/fish-kubecompletions)**  
+> Fish completions for kubectl with support for kubectl plugins.
+> 
+> - Uses `kubectl`'s built-in completion provider.
+> - Supports `argo rollouts`
+
 > **[fish-plugin-better-cd](https://github.com/eth-p/fish-plugin-better-cd)**  
 > A better version of cd (and pushd) for your Fish shell.
 > 
